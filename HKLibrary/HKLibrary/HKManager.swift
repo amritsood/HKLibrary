@@ -8,6 +8,7 @@
 import Foundation
 
 public class HKManager {
+    public init() { }
     public func sayHi() {
         print("Hi! From HKLibrary")
     }

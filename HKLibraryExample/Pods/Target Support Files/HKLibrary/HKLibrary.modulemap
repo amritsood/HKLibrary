@@ -1,0 +1,6 @@
+framework module HKLibrary {
+  umbrella header "HKLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

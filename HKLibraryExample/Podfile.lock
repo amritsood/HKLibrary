@@ -1,0 +1,16 @@
+PODS:
+  - HKLibrary (1.0.0)
+
+DEPENDENCIES:
+  - HKLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  HKLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HKLibrary: 6b6df877cf9c5159e21502d3258a972cde85f9d4
+
+PODFILE CHECKSUM: 7087dc713de8aea0db2fd2f2e7624fab52b43c50
+
+COCOAPODS: 1.11.3
